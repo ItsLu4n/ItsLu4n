@@ -20,7 +20,7 @@ sempre estudando.
 ### 💼 Meus ambientes
 ![VSCode](https://img.shields.io/badge/-VSCode-0085D1?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Windows](https://img.shields.io/badge/-Windows-00ADEF?style=flat-square&logo=windows&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-ffffff?style=flat-square&logo=linux&logoColor=141414)
+![Linux](https://img.shields.io/badge/-Linux-f5c022?style=flat-square&logo=linux&logoColor=141414)
 <img src="https://img.shields.io/badge/discord-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white" />
 
 ### 💻 Estudando atualmente
