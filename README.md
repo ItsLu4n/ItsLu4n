@@ -33,7 +33,7 @@
 
  
  
- #                                                                  ** <img src="https://cdn.discordapp.com/attachments/783731417783861298/795260417488322570/a_starred.gif" height="30px" width="30px"/> 
+ #                                                                   <img src="https://cdn.discordapp.com/attachments/783731417783861298/795260417488322570/a_starred.gif" height="30px" width="30px"/> 
  
 
 <p align="center"><img src="https://cdn.discordapp.com/attachments/783731417783861298/795255492581785610/tumblr_f20aacf7843c9bf720aad33030d5caee_5fd73b6e_1280.gif?width=405&height=241" alt="Banner Profile"/></p>
